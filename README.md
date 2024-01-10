@@ -11,3 +11,7 @@ We build technologies to enable people to interact with and within immersive art
 [LivePose Portal submission paper for SIGGRAPH](LivePosePortalSIGGRAPH2023-abstract-submitted.pdf)
 
 [LivePose Portal at the Mozilla Responsible AI Challenge in San Francisco (May 2023)](https://sat-mtl.gitlab.io/metalab/presentations/2023-LivePosePortal-MozillaResponsibleAI/)
+
+
+![Paper](LivePosePortalSIGGRAPH2023-abstract-submitted_page-0001.jpg)
+![Paper](LivePosePortalSIGGRAPH2023-abstract-submitted_page-0002.jpg)
