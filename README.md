@@ -8,4 +8,6 @@ Overcoming bias in technology is our responsibility as builders. It’s everyone
 
 We build technologies to enable people to interact with and within immersive arts
 
+[LivePose Portal submission paper for SIGGRAPH](LivePosePortalSIGGRAPH2023-abstract-submitted.pdf)
+
 [LivePose Portal at the Mozilla Responsible AI Challenge in San Francisco (May 2023)](https://sat-mtl.gitlab.io/metalab/presentations/2023-LivePosePortal-MozillaResponsibleAI/)
