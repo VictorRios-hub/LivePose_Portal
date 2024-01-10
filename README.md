@@ -7,3 +7,5 @@ Deep learning techniques are often developed by visible majorities, like us, thi
 Overcoming bias in technology is our responsibility as builders. It’s everyone’s responsibility.
 
 We build technologies to enable people to interact with and within immersive arts
+
+[LivePose Portal at the Mozilla Responsible AI Challenge in San Francisco (May 2023)](https://sat-mtl.gitlab.io/metalab/presentations/2023-LivePosePortal-MozillaResponsibleAI/)
